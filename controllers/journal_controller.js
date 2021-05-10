@@ -16,7 +16,7 @@ journal.post('/', (req, res) => {
     })
 })
 
-journal.put('/id', (req, res) => {
+journal.put('/:id', (req, res) => {
     Entry.findByIdAndUpdate(req.params.id, req.body, {new:true},
         (err, updatedEntry) => {
         if(err) {
