@@ -1,4 +1,4 @@
 # JournalCRUD
 - Devante Gandy
--Heath Friend
-- Kausar Akther 
+- Heath Friend
+- Kausar Akther
