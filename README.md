@@ -1,2 +1,3 @@
 # JournalCRUD
-- Devante Gandy 
+- Devante Gandy
+-Heath Friend
