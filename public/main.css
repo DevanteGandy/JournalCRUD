@@ -1,0 +1,44 @@
+h1,h2 {
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+  text-shadow: 1px 1px 2px tomato;
+}
+.vent {
+  font-size: 100px;
+}
+.entries {
+  font-size: 34px;
+}
+h3 {
+  text-align: center;
+  text-shadow: 1px 1px 2px gold;
+}
+img {
+  width: 200px;
+  display: block;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+li {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  align-items: center;
+  flex-basis: 28%;
+  margin: 2%;
+  background: #12121212;
+  box-sizing: border-box;
+  padding: 2%;
+  box-shadow: 2px 2px 4px tomato;
+}
+
+button {
+  background: tomato;
+  padding: 0.5em;
+  margin: 0.5em;
+}
