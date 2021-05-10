@@ -1,0 +1,26 @@
+{
+  "name": "JournalCRUD",
+  "version": "1.0.0",
+  "description": "- Devante Gandy - Heath Friend - Kausar Akther",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevanteGandy/JournalCRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevanteGandy/JournalCRUD/issues"
+  },
+  "homepage": "https://github.com/DevanteGandy/JournalCRUD#readme",
+  "dependencies": {
+    "dotenv": "^9.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  }
+}
