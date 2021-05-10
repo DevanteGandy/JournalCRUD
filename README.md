@@ -1,1 +1,2 @@
 # JournalCRUD
+- Devante Gandy 
